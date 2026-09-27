@@ -5,6 +5,7 @@ by The Good Company.
 
 - https://clq8tr.github.io/goodparent-legal/privacy.html
 - https://clq8tr.github.io/goodparent-legal/terms.html
+- https://clq8tr.github.io/goodparent-legal/delete-account.html (hand-written: account deletion steps for Google Play; not generated)
 
 These pages are GENERATED from `src/content/legal.ts` in the app's own
 repository, which is the same text the app displays on screen — so the
